@@ -122,14 +122,8 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .de_la_modelisation_au_tal
-.de_la_modelisation_au_tal/
-env/
-venv/
-ENV/
-env.bak/
-venv.bak/
+.de_la_modelisation_au_tal
 
 # Spyder project settings
 .spyderproject
