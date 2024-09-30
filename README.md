@@ -1,7 +1,7 @@
 # De la modélisation au TAL
 Projet dans le cadre du cours.
 
-<href="https://www.mdpi.com/1999-4893/15/8/291">Le  lien de l'article</href> 
+[Lien](https://www.mdpi.com/1999-4893/15/8/291) "Lien de l'article") 
 
 # L'article
 Titre de l'article :  Social Media Hate Speech Detection Using Explainable Artificial Intelligence (XAI)
