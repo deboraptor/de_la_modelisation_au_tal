@@ -123,7 +123,8 @@ celerybeat.pid
 
 # Environments
 .env
-.venv
+.de_la_modelisation_au_tal
+.de_la_modelisation_au_tal/
 env/
 venv/
 ENV/
