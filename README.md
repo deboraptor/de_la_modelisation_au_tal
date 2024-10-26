@@ -25,12 +25,12 @@ Plusieurs variations de BERT : BERT + ANN et BERT + MLP
 LIME
 
 ### Pre-existing models applied
-[ ] decision trees
-[ ] k-nearest neighbors
-[ ] multinomial naïve Bayes
-[ ] random forest
-[ ] logistic regression
-[ ] LSTM
+- [ ] decision trees
+- [ ] k-nearest neighbors
+- [ ] multinomial naïve Bayes
+- [ ] random forest
+- [ ] logistic regression
+- [ ] LSTM
 
 ## À nous de jouer
 ### Quelle dataset utiliser ? 
