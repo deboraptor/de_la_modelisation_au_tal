@@ -12,7 +12,7 @@ Année : 2022
 L'article 
 
 ### Les données
-En anglais, sur des tweets
+En anglais, sur des tweets et sur des posts d'un forum d'extrème droite aux Etats-Unis appelé Gab.
 
 ### Quelles datasets ?
 Google Jigsaw
@@ -25,15 +25,16 @@ Plusieurs variations de BERT : BERT + ANN et BERT + MLP
 LIME
 
 ### Pre-existing models applied
-* decision trees
-* k-nearest neighbors
-* multinomial naïve Bayes
-* random forest
-* logistic regression
-* LSTM
+[ ] decision trees
+[ ] k-nearest neighbors
+[ ] multinomial naïve Bayes
+[ ] random forest
+[ ] logistic regression
+[ ] LSTM
 
 ## À nous de jouer
 ### Quelle dataset utiliser ? 
-
-
-
+On a trouvé 3 datasets différentes en français qui pourraient faire l'affaire : 
+* [french hate speech superset](https://huggingface.co/datasets/manueltonneau/french-hate-speech-superset/viewer)
+* [hatecheck french](https://huggingface.co/datasets/Paul/hatecheck-french/viewer)
+* [multilinguial hatespeech dataset](https://huggingface.co/datasets/FrancophonIA/multilingual-hatespeech-dataset/viewer/French_test/test?p=10)
